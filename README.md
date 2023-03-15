@@ -13,6 +13,8 @@ I needed a way to let a user select a date range for a DataGrid filter. After so
 - WPF (XAML)
 
 ## How to use
+Please find a small sample application under [Example](/Example).
+
 The DateRangePicker User Control can be used as follows.
 
 1. Add the project or the user control to your solution/project.
