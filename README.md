@@ -1,6 +1,9 @@
 # XamlDateRangePicker
 A simple WPF DateRangePicker, that allows to select a date range from a calendar control.
 
+![image](https://user-images.githubusercontent.com/71687277/225329273-b9a88474-a445-48fc-8b4c-d3e57111bcd0.png)
+
+
 ## Motivation
 I needed a way to let a user select a date range for a DataGrid filter. After some research I was not able to find a control that was capable of what I wanted, so I created this WPF User Control to have a combination of the WPF DatePicker and the WPF Calendar controls, that allows either selecting a single date or a date range.
 
